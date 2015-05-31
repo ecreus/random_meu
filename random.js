@@ -1,4 +1,6 @@
+
 // MAth.random() devuelve un numero aleatorio entre 0 i 1
+// CAmbios hechus des de la página web
 var numero = Math.random();
 if (numero<= 0.5){
  console.log('\n' + numero + ' MENOR qu 0,5 \n');
